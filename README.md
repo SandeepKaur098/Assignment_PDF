@@ -2,7 +2,6 @@
 
 **Name:** Sandeep Kaur
 **Roll No:** 102483081
-**Subject:** Deep Learning / Machine Learning
 
 ---
 
@@ -79,3 +78,4 @@ The graphs below show the Kernel Density Estimation (KDE) comparison between the
 
 3.  **Conclusion:**
     * The GAN successfully approximated the unknown PDF without assuming any parametric form (like Gaussian or Exponential), satisfying the core objective of the assignment.
+
